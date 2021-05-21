@@ -38,3 +38,12 @@ In this lab repository, Singularity and Warewulf, both from the [HPCng](https://
 [Project Cinema/E4S](http://pantheonscience.org/e4s/)
 
 
+## Research Materials
+
+A good starting point to understand how ECP ecosystem works is the [SPACK: THE DEPLOYMENT TOOL FOR ECP’S SOFTWARE STACK](https://www.exascaleproject.org/spack-the-deployment-tool-for-ecps-software-stack/) where [Todd Gamblin](https://github.com/tgamblin) talks about it in great details.
+
+For understanding the [Extreme-Scale Scientific Software Stack](https://oaciss.uoregon.edu/ecp/), this is a good guide, along with [E4S: Extreme-Scale Scientific Software Stack](https://ecpannualmeeting.com/poster-interface23894732314e23hreu823rd/pdfs/E4S_Poster_2020.pdf).
+
+The xSDK: Extreme-scale Scientific Software Development Kit plays a essential role in ECP Software Stack too, and you can check the [Ecosystem State-of-the-Art](http://xsdk.info/xsdk-home-page/ecosystem-elements/), as :
+
+> The vision of the xSDK is to provide infrastructure for and interoperability of a collection of related and complementary software elements—developed by diverse, independent teams throughout the high-performance computing (HPC) community—that provide the building blocks, tools, models, processes, and related artifacts for rapid and efficient development of high-quality applications.
